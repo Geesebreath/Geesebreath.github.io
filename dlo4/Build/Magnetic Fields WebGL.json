@@ -1,0 +1,16 @@
+{
+"companyName": "NAIT",
+"productName": "Magnetic Fields",
+"productVersion": "1.1",
+"dataUrl": "Magnetic Fields WebGL.data.unityweb",
+"wasmCodeUrl": "Magnetic Fields WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Magnetic Fields WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
